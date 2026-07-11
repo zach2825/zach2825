@@ -48,12 +48,12 @@ A multi-tenant driving school management SaaS with online scheduling, student pr
 
 I write regularly at [turtlebytes.com/blog](https://turtlebytes.com/blog) - 26+ articles on Laravel, Vue, Linux, DevOps, and hardware.
 
-**Top posts:**
-- [AutoKey Power User Setup: 80+ Shortcuts for Linux Productivity](https://turtlebytes.com/blog) - 1,237 views
-- [Building an Intelligent RGB Keyboard Lighting System for Linux](https://turtlebytes.com/blog) - 1,151 views
-- [Introducing Contact Form: A Laravel Package for Structured Contact Submissions](https://turtlebytes.com/blog) - 1,141 views
-- [A Simple GitHub CI/CD Pipeline + Slack Notifications](https://turtlebytes.com/blog)
-- [Introducing Slack Alerts: A Fluent Block Kit Builder for Laravel](https://turtlebytes.com/blog)
+**Recent posts:**
+- [AutoKey Power User Setup: 80+ Shortcuts for Linux Productivity](https://turtlebytes.com/blog/autokey-power-user-setup-linux)
+- [Building an Intelligent RGB Keyboard Lighting System for Linux](https://turtlebytes.com/blog/intelligent-rgb-keyboard-lighting-linux)
+- [Introducing Contact Form: A Laravel Package for Structured Contact Submissions](https://turtlebytes.com/blog/introducing-contact-form-laravel-package-structured-submissions)
+- [A Simple GitHub CI/CD Pipeline + Slack Notifications](https://turtlebytes.com/blog/simple-github-cicd-pipeline-with-slack-notifications)
+- [Introducing Slack Alerts: A Fluent Block Kit Builder for Laravel](https://turtlebytes.com/blog/introducing-slack-alerts-fluent-block-kit-builder-laravel)
 
 ---
 
@@ -78,14 +78,11 @@ I write regularly at [turtlebytes.com/blog](https://turtlebytes.com/blog) - 26+ 
 
 ### GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zach2825&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zach2825&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zach2825&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zach2825&show_icons=true&locale=en" alt="GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zach2825" alt="GitHub streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zach2825&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
